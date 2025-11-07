@@ -1,5 +1,4 @@
 
-````
 # 🎯 Live Object Detection and Tracking using YOLOv8 and OpenCV
 
 This project demonstrates **real-time object detection and tracking** using the **Ultralytics YOLOv8** model integrated with **OpenCV**.  
@@ -86,13 +85,19 @@ Press **'q'** to quit the window.
 ---
 
 ## 👨‍💻 Author
-
-**Vaibhav Singh**
-🔗 [GitHub Profile](https://github.com/Vaibhav-12521)
-💬 *If you like this project, give it a ⭐ on GitHub!*
-
----
-
-
-Would you like me to add a **project banner (image + shields badges)** section at the top for a more professional GitHub look?
-```
+ *Vaibhav Singh*
+ <a href="https://leetcode.com/u/vaibhav125s/" target="_blank"> 
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/> 
+</a> 
+&nbsp;
+<a href="https://www.linkedin.com/in/vaibhavsingh125/" target="_blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> 
+</a>
+&nbsp;
+<a href="https://github.com/Vaibhav-12521" target="_blank"> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/> 
+</a>
+&nbsp;
+<a href="https://www.skills.google/public_profiles/676dd6a8-2e36-4ad9-ba82-034bc151848f" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Profile"/>
+</a>
