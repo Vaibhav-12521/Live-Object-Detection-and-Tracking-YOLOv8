@@ -1,5 +1,5 @@
 
-````markdown
+````
 # 🎯 Live Object Detection and Tracking using YOLOv8 and OpenCV
 
 This project demonstrates **real-time object detection and tracking** using the **Ultralytics YOLOv8** model integrated with **OpenCV**.  
