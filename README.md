@@ -1,6 +1,3 @@
-Here’s the complete **`README.md`** file content for your GitHub repository:
-
----
 
 ````markdown
 # 🎯 Live Object Detection and Tracking using YOLOv8 and OpenCV
